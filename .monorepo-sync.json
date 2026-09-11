@@ -1,0 +1,25 @@
+{
+  "generator": "dev-tools/sync-port-project.py",
+  "managed_files": {
+    "LICENSE": "1afcfdbb30a6209b162cfa0cfc648da7ee473392701cf1a1e4122ce74948e0d3",
+    "README.md": "b6c029ad9f5adc737c5e177823ec1510f4eb1785aaf4939f753db45077ba5516",
+    "extension.js": "d511c03efc5c094e70948cd5ef06574b8e1f261438276fdcf24cefdc31e5715a",
+    "lib/desktopSnapshot.js": "1b9faa18ef3c577d2766239735ab4e2ff3abf2360933e59a0f57281e05018abc",
+    "lib/profiles.js": "b9080ac3f8e57881e058f98e1548bdcf7c2571abb8d69de055e1dd8ac77c0aff",
+    "metadata.json": "956df45c36c6ce1fa02610751c4cf8a099762e075526d77a9a459d21970253fb",
+    "prefs.js": "e2cc46c78e9ce14fac65b6bd6e1cd7dcc798062258c48af5943780646bce8352"
+  },
+  "port": {
+    "alias": "panel-profiles",
+    "desktop": "gnome",
+    "kind": "extension",
+    "package_id": null,
+    "repo": "gnome-panel-profiles",
+    "uuid": "gnome-panel-profiles@curbsoftware"
+  },
+  "schema": 1,
+  "source_directory": "gnome-panel-profiles@curbsoftware",
+  "source_repository": "CurbSoftware/cinnamon-monorepo",
+  "source_revision": "dfb9fb7a7fff7cbcf0c48d3892fecd994a9c9059",
+  "source_worktree_dirty": false
+}

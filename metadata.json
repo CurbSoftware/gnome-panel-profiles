@@ -1,0 +1,12 @@
+{
+  "uuid": "gnome-panel-profiles@curbsoftware",
+  "name": "Desktop Profiles",
+  "description": "Save and restore named desktop layouts: enabled extensions, their settings, favorites, and monitor setup",
+  "version": "1.0.0",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48"
+  ]
+}
