@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # Desktop Profiles for GNOME Shell
 
 Save and restore named desktop layouts from a panel button. A profile
